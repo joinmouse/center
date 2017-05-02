@@ -1,0 +1,13 @@
+.box{
+  width: 200px;
+  height: 200px;
+  background: red;
+  display: table-cell;
+  vertical-align: middle;
+}
+.center{
+  width: 50px;
+  height: 50px;
+  background: blue;
+  margin: 0 auto;
+}
